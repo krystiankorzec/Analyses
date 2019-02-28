@@ -1,0 +1,786 @@
+
+****** Result for Image/Page 1 ******
+Grażyna Rogala-Pawelczyk 
+Rozdział 4 
+roces decyzyjny 
+CELE OPERACYJNE ROZDZIAŁU 
+Po przyswojeniu treści rozdziału i wykonaniu ćwiczeń uczący się powinien 
+umieć: 
+• zinterpretować istotę procesu decydowania, 
+• różnicować pojęcia: „decyzja”, „proces decydowania”, „sytuacja decyzyjna”, 
+„decydent”, „problem”, „wariant” i „kryterium decyzyjne", 
+• scharakteryzować typy decyzji i omówić warunki ich podejmowania, 
+• opisać istotę metody pozytywnej niepewności w podejmowaniu decyzji, 
+• omówić słabe i mocne strony różnych modeli podejmowania decyzji, 
+• wyjaśnić przesłanki centralizacji i decentralizacji decyzji, 
+• omówić grupowy proces podejmowania decyzji, wskazując jego wady i zalety, 
+• podjąć decyzję w przykładowej sytuacji decyzyjnej. 
+4.1. Istota podejmowania decyzji, typy decyzji 
+Dynamiczny rozwój praktyki zarządzania, powstawanie bardziej złożonych orga- 
+nizacji oraz szybkie zmiany w ich otoczeniu spowodowały wyeksponowanie pro- 
+blematyki związanej z procesami decydowania, Istotą realizowania funkcji kierow- 
+niczych jest proces stałego podejmowania decyzji i przewidywania ich następstw 
+oraz tworzenie warunków do podnoszenia skuteczności i racjonalności procesu de- 
+cydowania. 
+Na Wstępie rozdziału należy "jaśnić kilka podstawowych pojęć z de- 
+cydowaniem, m.in. „decyzja”, „proces decydowania”, „sytuacja decyzyjna' , „ 
+dent”, „problem decyzyjny", „wariant decyzyjny' , „kryterium decyzyjne” 
+Podejmowanie decyzji jest definiowane jako dokonywanie nielosowego wyboru 
+jednego spośród zestawu wariantów decyzyjnych. Inaczej, jest to akt wyboru jednej 
+93 
+
+****** Result for Image/Page 2 ******
+Za dzan_icw iel 
+iarstwłc 
+możliwości spośród ich zestawu. Podjęcie decyzji służy osiągnięciu założonych 
+łów decydenta lub organizacji, przekształceniu stanu obecnego w stan pożądany 
+(H.A. Simon, 1982}. 
+Pojęciem szerszym jest „proces decydowania”, rozumiany jako szereg kroków 
+cznei. Proces de wania można i 
+zmierzających 
+rzez decy en w Đniku kw 
+a 
+ości 
+określić jako 
+rych zostanie podjęta i wdrożona w życie właściwa decyzja. 
+cesie decydowarłił 
+zakłada się ciągłość postępowania decydenta. Może zdarzyć się sytuacja i w 
+tak jest, że podjęcie jednej decyzji pociąga za sobą konieczność ponownego realizo. 
+wania procesu decyzyjnego (H.A. Simon, 1982; R.W. Griffin, 2000). 
+Sytuacja decyzyjna może być określona jako stan organizacji, sytuacja, 
+ujawnia sięproblem decyzyjny i zachodzi konieczność podjęcia decyzji. Sytuacja d?. 
+cyzyjna jest stanem przymusu lub chęci podjęcia decyzji. Przymus zachodzi 
+czas, gdy sytuacja Istan obecny) nie odpowiada oczekiwaniom decydenta, a zatlili. 
+wanie bierności może przynieść negatywne konsekwencje zarówno dla 
+samego, jak i orgnni7acji. Chęć podejmowania decyzji jest związana z przekonaniem 
+decydenta, że w celu uniknięcia negatywnych konsekwencji lub uzyskania korzyści 
+należy podjąć decyzję. Sytuacja decyzyjna jest więc dla decydenta źródłem zagrożeń 
+lub szans, 
+Z kolei decydent to osoba lub grupa, która podejmuje decyzję. Decydent (decy. 
+denciL uczestnicząc w procesie decydowania, ponosi odpowiedzialność za podjęte 
+decyzje. Rozwiązuje problem decyzyjny, który można określić jako odchylenie dcŕ 
+dotnie lub ujemne od normy, planu, stanu pożądanego. Problem decyzyjny powstaje 
+wówczas, gdy istnieje (lub mogą zostać skonstruowane} co najmniej kilka warian- 
+łów decyzyjnych o różnych konsekwencjach dla organizacji lub decydenta. Sfor 
+mułowanie problemu decyzyjnego wiąże się z koniecznością określenia przez 
+denta: 
+. celu, 
+• możliwych sposobów osiągnięcia celu, 
+• kryterium wyboru, 
+• kontekstu. 
+Spełnienie wymienionych warunków daje możliwość określenia struktury 
+blemu, czyli ustrukturalizowania go, Ze względu na strukturę można wyróżnić: 
+• problemy decyzyjneo słabo określonej strukturze wewnętrznej — elementypr0• 
+blemu są trudne lub niemożliwe do zmierzenia, mają charakter niemierzalny 
+• problemy decyzyjne o dobrze określonej strukturze wewnętrznej — wszystkie 
+elementy są rozpoznane, można je zmierzyć i opisać w formie ilościowej, 
+â)ecydent, rozș,riązując problem decyzyjny, musi mieć świadomość istnienia 
+riantów decyzyjnych oraz konieczności sformułowania kryterium "boru właściwe • 
+go wariantu. Wariant decyzyjny to jedno z możliwych rozwiązań, zaś kryteriom 
+decyzyjne można określić jako wzór, normę, punkt odniesienia, który służy 
+dentowi do wyboru najlepszego rozwiązania problemu (decyzji). 
+Końcowym efektem decydowania jest więc decyzja, czyli jeden z wariantów 
+ny za najlepszy w danych okolicznościach. Fazy i kroki procesu decydowania, z 
+ględnieniem warunków sprawności, przedstawiono za W. Kieżunem w tabeli 
+94 
+
+****** Result for Image/Page 3 ******
+Tabela 9, Fazy i kroki procesu decyzyjnego 
+Fazy i kroki 
+Faza I 
+• zebranie informacji 
+• analiza informacji 
+• określenie wariantów decyzyjnych 
+Faza II 
+e hierarchia wariantów według przyjętej skali 
+wartości 
+• eliminacja wariantów wykraczających poza 
+przyjęty system 
+• ocena stopnia prawdopodobieństwa realiza- 
+cji decyzji 
+• dokonanie wyboru 
+Rozdzîal 4 • Proces d 
+Warunki sprawności 
+• pełność, szybkość 
+• wiarygodność 
+• kompletność 
+• zbieżność 
+• logiczność 
+Zdefiniowanie: 
+• potrzeb 
+• wartości 
+• systemu ocen 
+• realizm w ocenie i określenie prawdopo- 
+dobieństwa podjęcia słusznej decyzji, sto. 
+sowanie metod optymalizacyjnych 
+Źródło: W. Kieżun: PodstaĂĄy organizacji i zarządzania. Książka i Wiedza, Warszawa 1980, s. 305 
+Określenie najlepszej decyzji jest wyznacznikiem skuteczności działania decy- 
+denta. Skuteczne podejmowanie decyzji veymaga zrozumienia sytuacji decyzyjnej 
+i dokonania %Țboru zgodnego z warunkami tu i teraz, Jednocześnie wskazuje na ele- 
+ment czasu podejmowania i realizacji decyzji, jako czynnik warunkujący jej skute. 
+czność. Na ogół przyjmuje się, że decyzja skuteczna to taka, która optymalizuje pe- 
+wien zestaw czynników, np. zyski, dobrobyt pracowników, udział w rynku. Są to 
+zjawiska identyfikowane jako pozytywne i korzystne dla członków organizacji. 
+W pewnych sytuacjach słuszna będzie ta decyzja, która minimalizuje straty, koszty 
+albo fluktuację pracowników. Przykładem takiej decyzji może być "cofanie się 
+z rynku, wypowiedzenie umowy lub zwolnienie niektórych pracowników. Można to 
+przeanalizować na następującym przykładzie: zakład opieki zdrowotnej jest zadłu- 
+żony, spada popyt na świadczone usługi, obok pojawiła się silna konkurencja. W ta- 
+kiej sytuacji trafna decyzja może obejmować: 
+• zwolnienie pracowników, dla których zakład opieki zdrowotnej jest kolejnym, 
+a nie podstawowym miejscem pracy, 
+• przekwalifikowanie pracowników pozostałych w zakładzie, 
+wykorzystanie zaległych urlopów, 
+• podjęcie próby wyjścia na rynek z nową ofertą świadczeń zdrowotnych. 
+Taka decyzja może powodować trudności dla pracowników, ale jej wprowadzenie 
+rokuje pozytywnie dla zakładu, a w perspektywie dla pracowników. Wymaga od 
+Wszystkich pracowników, niezależnie od szczebla i stanowiska, pewnych poświęceń 
+i intensyfikacji działań przy minimalnych zyskach. Sytuacja taka może budzić opory 
+i niechęć pracowników. Istotne jest zatem zrozumienie sytuacji decyzyjnej nie tylko 
+Przez decydenta, ale również tych, których decyzja dotknie bezpośrednio (pielęgniar- 
+kir lekarze 
+Inni pracownicy medyczni i niemedyczni}. 
+95 
+
+****** Result for Image/Page 4 ******
+Zagad=anie w pielggniarstwie 
+w działaniu podejmują wiele różnych decyzji. ze 
+du na la•yteriulli "odrębnienia, można wskazać m.in. na następujące grupy 
+5gj 
+[R w. Griffîn, 2000; AK. Koźmiński, W. Piotrowski, 20021: 
+Ze względu na strukturę decyzii. 
+• decyzje zaprogramowane, 
+decyzje niezaprogramowane 
+Ze względu na warunki, w jakich podejmowane są decyzje: 
+• decyzje podejmowane w warunkach pewności, 
+• decyzje podejmowane w warunkach ryzyka, 
+decyzje podejmowane w warunkach niepewności. 
+Ze względu na czas, jaki upbwa od momentu podjęcia decyzji do jej 
+• decyzje strategiczne [długoterminowe), 
+• decyzje taktyczne [średnioterminowe), 
+• decyzje operacyjne [krótkoterminowe}. 
+Ze względu na podmiot [osobę decydenta}: 
+• decyzje jednoosobowe, 
+• decyzje zespołowe, 
+• decyzje parlamentarne. 
+Oczywiście przytoczone podziały me wyczerpują wszystkich możliwości w 
+zakresie. 
+Wracając do kryterium "odrębnienia grup decyzji, decyzje zaprogramowane 
+to takie decyzje, które mają jasno określoną, opisaną i kompletną strukturę lub po, 
+wtarzaią się z pewną częstotliwością [lub jedno i drugie) Decyzje te można przeana• 
+lizować na następującym przykładzie: pielęgniarka oddziałowa planuje doskonale 
+nie wewnątrzoddziałowe pielęgniarek, które odbywa się raz w miesiącu przez okres 
+10 miesięcy. Musi zatem podjąć decyzje zapewniające możliwość realizacji takiego 
+planu (m.in. opracować program szkolenia, "znaczyć osoby odpowiedzialne, pro- 
+wadzące, zasady uczestnictwa pielęgniarek w zajęciach). Decyzje te stanowią 
+kszość decyzji podejmowanych na niższych sm-eblach kierowania. 
+Decyzje niezaprogramowane mają niezbyt wyraźną strukturęr podejmowane są 
+rzadziej niż. decyzje zaprogramowane. Na przykład w realizacji zadań przez pielęg- 
+niarki na oddziałach szpitala niezbędne czasem staje się skorzystanie z nowej apane 
+tury czy zastosowanie rzadkiej procedury. Pielęgniarka naczelna wie, że taka 
+cia może zaistnieć, dlatego, opierając się na doświadczeniu i intuicji, podejmłe 
+decyzje o okresowym dokształcaniu pielęgniarek i zabezpieczeniu właściwego sprzę 
+tu. Większość decyzji podejmowanych przez menedżerów wyższych szczebli to 
+cyzje niezaprogramowane. 
+Warunki podejmowania decyzji w praktyce zarządzania są bardzo różne, Kierow 
+nicy czasami znają i rozumieją warunki, w jakich decyzja jest podejmowana, niekłe- 
+dy jednak ta wiedza i rozpoznanie sytuacji są fragmentaryczne (ryc. 8}. 
+Decyzje podejmowane w sytuacji (w warunkach) pewności to takie, w których 
+decydujący posiada niezbędne informacje, identyfikuje dostępne warianty i warunki 
+ich realizacji- Decydent zna związki przyczynowo-skutkowe zachodzące w otoce- 
+niu i jest w stanie określić z dużym prawdopodobieństwem, że podejmuje trafną 
+cyzję, Na ogół decyzje takie są podejmowane dość rzadko, Dla przykładu, pielęgnłał' 
+ka odcinkowa posiada wszystkie niezbędne informacje o pacjencie i jest w stanłe 
+zaplanować indywidualnąȚ dostosowaną do potrzeb pacjenta opiekę. PielęgniarkJ 
+96 
+
+****** Result for Image/Page 5 ******
+niskie 
+Rozdział 4 • Proces de 
+Osoba podejmująca decyzje działa w warunkach 
+pewności 
+ryzyka 
+niepewności 
+Poziom niejasności i niebezpieczeństwo podjęcia błędnych decyzji 
+średnie 
+wysokie 
+Ryc. 8. Warunki podejmowania decyzji 
+Modyfikacja własna. Źródło: R-W, Griffin: Podstawy zarządzania organizacjami. Wyd. Naukowe 
+PWN, Warszawa 2001, s. 270 
+oddziałowa posiada informacje na temat swoich pracowników dotyczące wiedzy, 
+umiejętności praktycznych i postaw. Wykorzystuje tę wiedzę i znajomość pielęgnia- 
+rek odcinkowych do planowania rozkładu dyżurów lukładania grafików). 
+Decyzje podejmowane w sytuacji (w warunkach) łyzyka to sytuacjeg w których 
+decydent posiada niekompletne informacje, a potencjalne korzyści i koszty są znane 
+z pewnym szacunkowym prawdopodobieństwem. W przypadku podejmowania 
+takiej decyzji decydujący może skorzystać z doświadczenia i intuicji, Przy podejmo. 
+waniu decyzji w sytuacji ryzyka kierownicy muszą trafnie określić prawdopodobień- 
+stwo związane z każdym rozpatrywanym wariantem. Towarzyszą temu umiarko- 
+wana niejasność i niebezpieczeństwo podjęcia błędnej decyzji. Przykładem mogą 
+być negocjacje z niezbyt dobrze znanym przeciwnikiem lub ustalanie planu pielęg- 
+nacji pacjenta z utrudnionym kontaktem słownym, kiedy pielęgniarka nie może 
+uzyskać wszystkich niezbędnych informacji. Opiera się wówczas na wywiadzie i roz- 
+poznaniu lekarskim, ustalonym planie leczenia, obserwacji pacjenta i dotychczaso- 
+wym własnym doświadczeniu w podobnych sytuacjach. 
+Decyzje podejmowane w warunkach niepewności. Większość poważnych decyzji 
+w organizacjach podejmowana jest w takiej właśnie sytuacji. Wynika to z tempa zmian, 
+jakie zachodzą w otoczeniu i w samej organizacji. Decydent nie zna wszystkich możli- 
+wości związanych z wyborem ani prawdopodobnych konsekwencji decyzji. Nie może 
+też odwołać się do posiadanego doświadczenia. Przykładem jest tworzenie indywidual- 
+nycll lub zespołowych praktyk pielęgniarskich czy zakładów pielęgnacyjno-opiekuń- 
+czych w końcu lat 90. XX wieku w momencie wdrażania reformy ochrony zdrowia. De- 
+cydenci znali cele, zadania i strukturę tego typu jednostek, ale nie mieli żadnego 
+doświadczenia w tym zakresie, ponieważ była to nowość w warunkach polskich. 
+Jak już wspomniano, decyzje można podzielić ze względu na horyzont czasowy 
+ich realizacji (B.R. Kuc, 2000). Najdłuższy czas realizacji posiadają decyzje strategi- 
+czne, które tworzone Są dla okresów wieloletnich. Do nich można zaliczyć strategie 
+rmuroju opracowywane dla zakładu opieki czy planowanie zmian w zakresie 
+kształcenia pielęgniarek w Polsce zgodnie ze standardami Unii Europejskiej. 
+W ciągu co najmniej jednego roku realizowane są decyzje taktyczne (tzw. średnio- 
+terminowe). przykładem takich decyzji jest plan i program doskonalenia we. 
+97 
+
+****** Result for Image/Page 6 ******
+twie 
+d:aniew ' 
+wnątrzoddzialowego pielęgniarek odcinkowych ustalony przez pielęgniarkę od. 
+działową. Decyzje o charakterze taktycznym podejmuje również Pielęgniarka 
+rozpoczynająca samokształcenie w drodze specjalizacji w trybie jednorocznym lub 
+studia podyplomowe trwające jeden rok akademicki. 
+W praktyce zarządzania najczęściej podejmowane są decyzje operacyjne 
+koterminowel. W tym przypadku czas realizacji jest krótki {krótszy niż jeden rok). 
+Decyzje te zapewniają ciągłość funkcjonowania organizacji, Przykładem mogą tu 
+być działania pielęgniarki oddziałowej związane z układaniem grafików pracy 
+gniarek odcinkowych na oddziale, przydzielanie zadań podległym pracownikom 
+w systemie dyżuru, tygodma czy miesiąca, a także planowanie zastępstw na czas 
+lopów lub nieobecności pracowników, spowodowanych krótkotrwałą chorobą, 
+Jak już wspomniano, decyzje kierownicze mogą być podejmowane przez jedną 
+bę (tzw. decyzje jednoosobowe} lub grupę osób. W pierwszym przypadku kierownik 
+sam dokonuje analizy sytuacji decyzyjnej, formułuje i charakteryzuje problem decy, 
+zyiny, tworzy warianty decyzyjne i w oparciu o przyjęte knrteria dokonuje 
+lepszego rozwiązania [podejmuje decyzję}. W niektórych sytuacjach decydent opitG 
+się na wypowiedziach i opiniach ekspertów, którzy uczestniczą w początkowym 
+pie decydowania, przygotowują warianty, ale decyzję ostateczną podejmuje sam kie- 
+rownik. Są to tzw. decyzje jednoosobowe oparte na wcześniejszym rozpoznaniu 
+W praktyce zarządzania szereg decyzji podejmowanych jest przez zespół decyąfi- 
+ny {decyzje zespołowe). Proces decydowania realizowany jest przez grupę osób, 
+a decyzja ostatermn jest kompromisem i wypadkową propozycji rozwiązań przed, 
+stawionych przez poszczególnych uczestników, którzy akceptują przyjmowane 
+wiązania. Przykładem tego typu decyzji jest przydzielanie premii, nagród lub pla- 
+nowame podwyżki wynagrodzenia przez grupę osób zarządzających szpitalem 
+(dyrektor, pielęgniarka naczelna, oddziałowa, ordynator) oraz przedstawicieli orga• 
+nizacji związkowych lub tzw. mężów zaufania zatrudnionych na oddziale. 
+Decyzje parlamentarne podejmowane są również przez grupę osób ale 
+zuje tu inna reguła dotycząca ostatecznie przyjętego rozwiązania problemu. 
+nicy przedstawiają swoje propozycje decyzji ostatecznej, która w końcowym efektac 
+podejmowana jest większością głosów w drodze głosowania. Pozostaje więc grupa 
+osób, którym me odpowiada przyjęte rozwiązanie, lecz są zobowiązani do respew 
+wania decyzji większości. 
+Z przedstawionych powyżej informacji jednoznacznie wynika, że proces decydo- 
+wania jest trudny, zachodzi w różnych warunkach, a więc i decyzje kierowłicze 
+mają różny charakter. 
+4.2. Różne modele podejmowania decyzji 
+.łondJ 
+Klasyczny model podejmowania decyzji jest podejściem zakładającym rac 
+nośc i logiczność działania decydenta oraz pewną niezmienną sekwencję 
+w procesie decydowania. Jednocześnie przyjmuje się, że decyzja najlepiej służy inte• 
+resorn organizacji, W podejściu tym przyjmuje się następujące założenia: 
+98 
+
+****** Result for Image/Page 7 ******
+• decydent posiada pełną informację o sytuacji decyzyjnej i możliwych warian- 
+• decydent jest w stanie zniwelować niepewność w momencie podejmowania de- 
+cyzji poprzez gromadzenie i analizowanie informacji, 
+decydent umie racjonalnie i logicznie oceniać wszystkie aspekty sytuacji decy- 
+Warunki takie są spełnione bardzo rzadko, Nie oznacza to, że takie podejście nie 
+ma racji bytu w działaniach kierownika. Realizując krok po kroku schemat racjonal- 
+nego podejmowania decyzji, decydent nabiera przekonania i zdobywa wiedzę do tra- 
+ŕnego podjęcia decyzji ta racjonalne 
+de 'mowania d 
+to: rozpoznanie 
+i zdefiniowanie sytuacji decyzyjnej, zi en 
+ovvanie wariantów decyzyjnych, oce- 
+na każdego z wariantów, lăybranie wariantu najlepszego, wdrożenie "branego 
+wariantu, obserwowame i ocenianie rezultatów. 
+dcRozpoznanie i zdefiniowanie sytuacji decyzyjnej jest to pierwszy krok w procesie 
+podejmowania decyzji. Istotą jest gromadzenie i analizowanie informacji do- 
+tyczących zaistmaîej sytuacji. Uzyskane informacje podlegają ocenie pod względem: 
+wystarczalności dla prawidłowego przebiegu decydowania, 
+• dostępności i niezbędności dla decydenta, 
+• stopnia istotności dla danego problemu, 
+• wiarygodności, 
+• szczegółowości, 
+• stopmafonnali.zacji (pochodzenie zdokumentu lub np. z niefonnalnegoprzekazu). 
+Zakłada się, że decydent po przeanalizowaniu posiadanych informacji uznaje za 
+konieczne i możliwe podjęcie decyzji. Z etapem tym wiąże się sformułowanie i opisa- 
+nie problemu decyzyjnego, Problem jest opisywany poprzez uzyskanie odpowiedzi na 
+pytama, min.: czego dotyczył, w jakim miejscu organizacji "stępuje}, jak często 
+stępuje?, jakie mogą być przyczyny jego powstania?, jaki jest jego stopień trudności 
+i złożoności?, jakie konsekwencje przynosi dla funkcjonowania organizacji?. 
+Ż. Identyfikacja wariantów rozwiązań jest etapem polegającym na opracowaniu sze- 
+regu alternatywnych rozwiązań problemu. Warianty decyzyjne muszą mieć chara- 
+kter twórczy, a jednocześnie cechować się "konalnością. Im bardziej złożona 
+i trudna decyzja, tym liczba wariantów powinna być większa, a one same dokładnie 
+opisane razem z ewentualnymi konsekwencjami i kosztami. 
+Ocena wanantów polega na tym, że decydent analizuje przygotowany katalog 
+rozwiązań i ocenia każdy z nich pod kątem przydatności, możliwości "boru i kon- 
+kwencji z tym związanych. Główne pytanie brzmi: czy wariant jest wykonalny! 
+Wybór wariantu jest możliwy przy użyciu określonych kryteriów (systemu warto- 
+0. Decydent dokonuje "boru jednego spośród opracowanych wariantów i przygo- 
+towuje się do jego wdrożenia. Celami tego etapu są dokonanie najlepszego z możli- 
+h wyborów oraz optymalizacja działania. 
+Wdrażanie nowego wariantu {decyzji}. Po dokonaniu wyboru {podjęciu decyzji) 
+rownik podejmuje działania mające na celu jego wdrożenie. Realizacja tego etapu 
+może mieć różny stopień trudności oraz napotkać opór pracowników wobec zmiany, 
+"nikający z obawy przed nowym, być może tnłdniejszym rozwiązaniem. W takiej 
+sytuacji kierownik musi postępować zgodnie z cyklem wprowadzania zmian w orga- 
+nizacji. Należy pamiętać o pozytywnym wzmacnianiu i wskazywaniu korzyści dla 
+organizacji i samych pracowników. 
+99 
+
+****** Result for Image/Page 8 ******
+iarstwie 
+Obserwacja i ocena wyników stanowią etap końcowy, który w pewnych 
+nošciach może zapoczątkować nowy proces decydowania. Polega na ocenie tra 
+i skuteczności decyzji, W przypadku np. niskiej skuteczności czy wysokich 
+pojawia się konieczność kontynuowania procesu decydowania i przeanalizowtq 
+możliwości "boru innego z posiadanych wariantów. Przebieg racjonalnego pr 
+podejmowania decyzji na kierowniczym pielęgniarskim stanowisku pracy 
+przedstawiony w tabeli 10. 
+W procesie decydowania Idadzie się nacisk na racjonalność decyzji, którą 
+rozpatrywać w ujęciu rzeczowym i metodologicznym. Racjonalność rzeczowa 
+na dokonaniu wyboru dostosowanego do aktualnego stanu rzeczywistości 
+nie tu i teraz}, Racjonalność metodologiczna polega na dokonaniu wyboru w 
+o wszystkie możliwe do zdobycia informacje i zgodnie ze sztuką decydowania 
+wiedzą na temat przebiegu procesu decydowania}. Pomiędzy obydwoma rodzajamiQ, 
+cionalności w praktyce decydowania mogą zachodzić różne współzależności 
+kiewicz, B, Wawrzyniak, 1978; B, Wawrzyniak, 1980; W. Kieżun, 19801: 
+decyzja jest racjonalna metodologicznie i racjonalna rzeczowo — oznacza to 
+postępując zgodnie ze sztuką decydowania, decydent podjął trafną w 
+tuacji decyzję, 
+• decyzja jest racjonalna metodologicznie i nieracjonalna rzeczowo — 
+postępował zgodnie z zasadami decydowania, lecz decyzja odpowiadająca sztil, 
+ce decydowania nie jest korzystna w danej sytuacji decyzyjnej, 
+• decyzja jest nieracjonalna metodologicznie i nieracjonalna rzeczowo 
+powanie decydenta nie było zgodne z metodologią i podjęta w ten sposób decy- 
+zja nie jest trafna ani korzystna, 
+decyzja jest nieracjonalna metodologicznie i racjonalna rzeczowo - pomimo 
+postępowania niezgodnego z metodologią, decydentowi „udało” sig podjął 
+dobrą decyzję. 
+Tabela 10. Proces racjonalnego podejmowania decyzji na pielęgniarskim stanowisku pracy 
+Lp. Etap 
+l. Rozpoznanie 
+i zidentyfiko- 
+wanie sytua- 
+2. Identyfikacja 
+możliwych 
+alternatyw- 
+nych roz- 
+wiązań. 
+100 
+Szczegóły postępowania 
+Pojawia się konieczność roz- 
+wiązania problemu i podjęcia 
+decyzji. Problem może mieć 
+charakter pozytywny lub ne- 
+gatywny. 
+Przygotowywanie alternaty- 
+wnych wariantów, im powa- 
+żniejsza decyzja, tym 
+wariantów powinno być wię- 
+cej. 
+Przykład 
+Pielęgniarka oddziałowa dostrze• 
+ga obniżenie poziomu pielęgnacji 
+na oddziale oraz pasywne posta- 
+wy wśród pielęgniarek odcinko- 
+wych. 
+Rozważa możliwość podniesienia 
+wynagrodzenia dla najlepszych 
+pracowników, wprowadzenie 
+zróżnicowanej premii, zastosower 
+nie nowego systemu nagradzama„ 
+wystanie najlepszych pielęgniarek 
+na atrakcyjne konferencje i pokry- 
+cie kosztów ich udziału, zatrudnił 
+nie pracowników pomocniczych, 
+zwiększenie zatrudnienia pielęg- 
+niarek na oddziale. 
+
+****** Result for Image/Page 9 ******
+Rozdzia' • Proces 
+Tabela 10. Proces racjonalnego podejmowania decyzji na pielęgniarskim stanowisku pracy cd. 
+3. 
+4, 
+5. 
+6. 
+Ocena wa- 
+riantów. 
+Wybór najle- 
+pszego wa- 
+riantu. 
+Wdrożenie 
+wybranego 
+wariantu. 
+Obsemacja 
+wyników 
+i ocena. 
+Szczegóły postępowania 
+Każdy wariant podlega oce- 
+nie pod względem wykonal- 
+nościŕ wystarczalności 
+i następstw. 
+Decydent dokonuje analizy, 
+selekcji wariantów i wybiera 
+najlepszy w danej sytuacji. 
+Wybrany wariant, podjęta 
+decyzja zostaje wdrożona do 
+praktyki. 
+Ma na celu stwierdzenie po- 
+prawności realizacji podjętej 
+decyzji. 
+Przyldad 
+Okazuje się, że motywacja ekono- 
+miczna jest niemożliwa, podobnie 
+dodatkowe zatrudnienie pracow- 
+ników. 
+Pielęgniarka oddziałowa 
+nawiązuje kontakt z organizatora- 
+mi konferencji oraz firmami, które 
+pokryją koszty szkolenia i konfe- 
+rencji. 
+Ustala warunki, jakie powinny 
+spełnić pielęgniarki, aby skorzy- 
+stać z możliwości doskonalenia, 
+przekazuje pielęgniarkom decyzje. 
+Pielęgniarka zauważa po kilku 
+miesiącach zmiany w postawach 
+pielęgniarek oraz stopniowe pod- 
+noszenie jakości opieki Miązane 
+ze wzrostem wiedzy pracowni- 
+ków, którzy uczestniczyli w konfe- 
+rencji. 
+W przypadku trzech pierwszych zależności można stwierdzić, że racjonalność 
+rzeczowa jest determinowana przez racjonalność metodologiczną. Ostatni wymie- 
+niany przypadek określany jest jako tzw. szczęście decydenta i zdarza się w praktyce 
+zarządzania rzadko. Na racjonalność decyzji wpływa szereg czynników, które moż- 
+na zasadniczo podzielić na dwie grupy: 
+1. Związane z racjonalnością metodologiczną: 
+• wiedza decydenta na temat przebiegu procesu decydowania (znajomość sztuki 
+decydowania}, 
+• wiedza decydenta na temat sytuacji decyzyjnej, 
+• motywacja decydenta do podjęcia racjonalnej decyzji. 
+2. Związane z racjonalnością rzeczową: 
+• metodologia podejmowania decyzji, 
+osoba decydenta, 
+• sytuacja, w której przebiega podejmowanie decyzji i jej realizacja. 
+Racjonalność decyzji można zapewnić poprzez opanowanie wiedzy na temat pro- 
+cesu podejmowania decyzji oraz zapewnienie warunków do jego prawidłowego prze- 
+biegu. 
+W praktyce zarządzania nie zawsze, a nawet stosunkowo rzadko można podejmo- 
+wać decyzje w logiczny sposób. Behawioralne aspekty podejmowania decyzji wska- 
+złają następujące czynniki wpływające na decydowanie: subiektywne względy decy- 
+dowania, czynniki polityczneî intuicję, zaangażowanie decydenta, skłonność do 
+podejmowania ryzyka oraz etykę w decydowaniu. 
+101 
+
+****** Result for Image/Page 10 ******
+Na przesłankach behawioralnych oparty jest administracyjny model 
+wania, który zaproponował I-I.A. Simon. Zamiast dyktować ścisłe sekwenge 
+powania, opisuje on sposób podejmowania decyzji. Model ten zakłada, ki 
+cy: 
+• dysponują niepełną, nieaktualną i niedoskonałą informacją, 
+• są ograniczeni w swojej racjonalności, 
+• są zadowolem z pierwszych dopuszczalnych rozwiązań. 
+Ograniczona racjonalność wskazuje na fakt, że podejmujący decyzic działają 
+wpływem subiektywnego systemu wałtości, oczekiwań, celów, potrzeb, 
+ści i zwyczajów. W trakcie podejmowania decyzji kierownicy mogą przejawiać ten, 
+dencje do szukania najprostszych, a nie najlepszych rozwiązań i zadowolą każ, 
+dym wariantem dopuszczalnym, dającym minimum wystarczalności. Przykładem 
+może być tu szukanie oszczędności w zakładach opieki zdrowotnej na drodze 
+niania pracowników, zamiast podjęcie trudniejszych działań zmierzających do 
+szukania nowych obszarów na rynku świadczeń medycznych i wprowadzenia metod 
+podnoszących efektywność zakładu, Ze względu na ograniczoną racjonalność 
+dowania i skłonność do zadowalania się minimalistycznymi rozwiązaniami, decyzje 
+podjęte przez kierowników mogą nie być w interesie organizacji. 
+Czynniki polityczne są istotnym elementem składającym się na behawioralny 
+model podejmowania decyzji. Szczególnie ważne jest tworzenie koalicji w 
+decydowania, która jest określana jako nieformalny sojusz osób i organizacji 
+rzających do osiągnięcia takich samych lub zbliżonych celów, Koalicje mogą 
+zarówno pozytywny, jak i negatywny wpływ na decydowanie. Kierownik musi pasia. 
+dać informacje o koalicjancie, jego oczekiwaniach i postawach, umieć oceniać 
+rzetelnie i obiektywnie oraz korzystać z jego pomocy. Powinien również przewidzjeć 
+negatywne skutki koalicji i wypracować sposoby zapobiegania im. Przykładem decy- 
+dowania przy współudziale koalicji jest negocjowanie warunków pracy przez pielț\', 
+niarki np. wspólnie z lekarzami lub innymi pracownikami. 
+Kolejny czynnik behawioralny w podejmowaniu decyzji to intuicja decydenta. 
+czyli wewnętrzne przekonanie o czymś i narastanie zaangażowania polegające 
+podtrzymywaniu podjętej decyzji, mimo że okazuje się ona niewłaściwa lub 
+wa. Intuicja nierzadko ma korzenie w dotychczasowym doświadczeniu i kwalifľŕ 
+ciach decydenta, dlatego nie można jej całkowicie lekceważyć. 
+Skłonność do podejmowania ryzyka. Niektórzy decydenci podejmują decyzje 
+dzo ostrożnie, próbując trzymać się modelu klasycznego, uzyskując w ten 
+większe szanse na poprawną decyzję. Inni, opierając się w dużej mierze na intuicii 
+i posiadając skłonność do podejmowania ryzyka, szybko podejmują decyzje, W 
+równaniu z poprzednikami, często ryzykują duże nakłady, a ich szansa na 
+może mieć charakter gry hazardowej. Jednak czasami w praktyce okazuje sig, że 
+reg tych decyzji jest trafnych. Głównym elementem ryzykownych decyzji jest 
+i lultura organizacji. 
+łyk] 
+Sposób zachowania się kierownika w procesie decydowania zależy od jego e 
+indywidualnej. Decydent o wysokiej postawie etycznej w sytuacji, gdy jego 
+może spowodować przykre konsekwencje dla podwładnych, będzie starał się 
+trafną decyzję, ale minimalizującą te niedogodności. 
+Porównując model klasyczny i administracyjny, moŻna dostrzec zupełnie 
+mienny obraz procesu decydowania. Trudno orzec, który z nich jest zdecyd0W 
+102 
+
+****** Result for Image/Page 11 ******
+Rozdział 4 • Proces degy-zyłny 
+lepszy. Model klasyczny ma charakter normatywny, wskazuje i nakazuje kolejne 
+etapy działania kierownika w procesie decydowania. Model administracyjny daje 
+kierownikowi możliwość lepszego poznania swoich zachowań w procesie podejmo- 
+wania decyzji. 
+Japoński model podejmowania decyzji jest odmienny od omawianych pc»vyżei 
+modeli klasycznego i administracyjnego. Punktem wyjścia do analizy japońskiego 
+modelu podejmowania decyzji jest odmienne odniesienie się do pojęcia i definiowania 
+decyzji. Proces decydowania w komoracji japońskiej opiera się na silnej orientacji na 
+grupę i skupiony jest na zdiagnozowaniu oraz sformułowaniu problemu decyzyjnego. 
+Dla Europejczyka decyzja kojarzona jest z dokonaniem »boru, rozwiązaniem proble- 
+mu, znalezieniem najlepszego rozwiązania. Dla Japończyka proces decydowania sku- 
+pia się na problemie. Wstępna faza procesu decydowania związana z określeniem pro- 
+blemu jest w tym przypadku fazą najważniejszą i podstawową. Rozważania służące 
+precyzyjnemu określeniu przedmiotu decyzji rozpoczynają się na najniższych szczeb• 
+lach orgamzacji i opierają się na zasadzic konsensusu. Osiągnięcie pełnego porozu- 
+mienia (konsensusu) co do precyzyjnej i bardzo ścisłej definicji problemu oznacza, że 
+samo rozwiązanie nasunie się niejako automatycznie. Inaczej mówiąc, jeżeli ustali 
+się, czego ma dotyczyć decyzja, zostanie ona podjęta szybko. 
+Podsumowując powyższe rozważania na temat różnych modeli procesu decydo- 
+wania, można stwierdzić, że: 
+• proces decydowania, niezależnie od podejścia, jest ściśle związany z kierowa- 
+niem organizacją, 
+• w wyniku podjęcia decyzji ulegają określonym zmianom procesy zachodzące 
+w organizacji oraz normy i zasady dotyczące tych procesów, 
+• decyzje są istotnym elementem wpływającym na zmiany w organizacji oraz 
+proces przystosowania się organizacji do otoczenia, 
+• treść i jakość decyzji zależą od przyjętego modelu, osoby decydenta, kultury or- 
+ganizacji oraz warunków, w jakich decydowanie zachodzi. 
+4.3. Metoda pozytywnej niepewności 
+w podejmowaniu decyzji w okresie 
+przekształceń systemu opieki zdrowotnej 
+Klasyczne metody podejmowania decyzji są metodami opierającymi się na przeko- 
+naniu o niezmienności otoczenia i bazującymi na gromadzeniu potrzebnych informa- 
+cii. W czasie decydowania kierownik (decydent) musi być skoncentrowany na celach, 
+ś%iadomy znaczenia informacji decyzyjnej, obiektywny i praktyczny. W praktyce decy- 
+dowania jednak często spotyka się ze zmianami otoczenia i wieloma barierami decyzyj- 
+nymi (informacyjna, organizacyjna, czasowa, ludzka). Chcąc odnieść sukces w zmie- 
+mającym się świecie, decydent (kierownik, pracownik wykonawczy) staje przed 
+koniecznością uczenia się, w jaki sposób reagować na zmiany, jak je przewidywać i prze- 
+Prowadzać. Musi on rozumieć, akceptować oraz mieć pozytywny stosunek do podejmo- 
+103 
+
+****** Result for Image/Page 12 ******
+dzanicțțt iel - arstwie 
+wania w trudnych i niestabilnych. Jedną z metod 
+deo-zii w zmienioîącvn się otoczeniu jest metoda pozytywnej niepewności, 
+Gelatta, amełykańskiego psychologa zarządzania. Pozytywna 
+wszystkich intelektualnych 
+umysłu, Pomaga ona podejmować decyzje strategiczne w sytuacji, 
+decydent nie wie, jaka będzie przyszłość Jest to metoda łatwa i zalecana 
+i zmianą (HR. Gelatt, 1991). opiera się na 
+mie, jak i intuicji. W metodzie tej opisuje się warunki w zmieniającym się otoczeniu 
+i ponșŕrala na oswojenie się z tempem i zakresem zmian. Niemożność przewidzenił 
+przyszłości oraz ograniczona racjonalność powodują, że metoda ta może mieć 
+zastosowanie w decydowaniu strategicznym. 
+Metoda pozytyvsmej niepewności wykorzystuje dwie postawy i cztery czynnik 
+w celu zapewnienia decydentowi umiejętności łatwego przystosowania się do 
+wych sytuacji i zachowania równowagi w procesie decydowania. Łączy w sobie 
+dycyjne, racjonalne podejście z intuicyjnym. 
+Postawy to: 
+• uznanie przeszłości, teraźniejszości oraz przyszłości za niepewne, 
+• zachowanie pozytywnego stosunku do niepewności. 
+Do czynników „pozytyvmej niepewności” zalicza się: 
+• pragnienła, 
+• wiedzę, 
+• wierzenia, przekonania i opinie, 
+Tradycyjne strategie decydowania wskazują, że w czasie podejmowania decyzy 
+kierownik powinien być: 
+• skoncentrowany i nastawiony na ustalanie wyraźnych celów, 
+• świadomy i posiadający do dyspozycji wszystkie istotne informacje, 
+• obiektywny i przewidujący prawdopodobne skutki swojego działania, 
+• praktyczny i prezentujący racjonalne podejście do decydowania. 
+Metoda pozytywnej niepewności, nie odrzucając tradycyjnych strategii 
+dowania, dodatkowo zaleca wykorzystywanie pozornie paradoksalnych, ale 
+h procedur decydowania. Zaleca si 
+• skoncentrowani na swo ce ach, ale elastyczni w i 
+o orze, 
+• świadomi posiadanych informacii,leczprzezorniwocenianiu swoieiwiedz! 
+• obiektywnjf lecz także optymistyczni w ocenianiu własnych możliwości' 
+• praktyczni, a także intuicyjni w swoich działaniach. 
+rzedstawione zasady nazwane zostały paradoksalnymi, gdyż równoważą 
+racjonalną, logiczną i dobrze znaną podejmującym decyzje w sposób 
+z metodą intuicyjną, țvyobrażeniową, która jest zalecana przez psychologów 
+ni zwcześniej wymienioną. Zasady te uwzględniają: wiedzę o fizjologii procesóW 
+cyzyjnych odbywających się w prawej i lewej półkuli mózgowej, oddziaływanie T 
+świadomości, postawę decydenta, przekonanie o własnych możliwościach 
+determinację w działaniu. 
+txvwdfl!. 
+Pierwsza zasada metody pozytywnej niepewności zaleca: bądź skoncen 
+celów 
+ale elastyczny, określaiqc swoje cele. Posiadanie wyraźnych, icb 
+oraz koncentrowanie się na ich realizacłi pozwala na skupienie słę na sposoba 
+osiągnięcia. Jednak może powodować w niektórych sytuacjach niedostrzegani e 
+104 
+
+****** Result for Image/Page 13 ******
+Rozdział • Proces d 
+wych, innych, istotnych perspektyw i możliwości postępowania. Elastyczność prze. 
+jawia się w stwierdzeniu, że cele powłnny prowadzić, a nie zarządzać człowiekiem. 
+Nie oznacza to rezygnacji zce w tru nyc o osiągnięcia, a e ws zułena oniecz- 
+ność stałej analizy i udzielenia sobie odpowiedzi na pytanie: czy ten cel jest nadal 
+pożądany i najważniejszy w hierarchii celów? W drodze do osiągnięcia umiejętności 
+podejmowania decyzji omawianą metodą istotne jest poznanie własnych postaw 
+i ocen zachodzących zmian oraz nieodrzucanie z góry innych opcji. Omawiana zasa- 
+da pozytywnej niepewności tylko pozornie jest paradoksalna. Zakłada bowiem usta- 
+lenie celów, ale jednocześnie zachęca do ich ciągłej weryfikacji i określania nowych, 
+także na podstawie intuicji. 
+Bądź świadomy, lecz przezorny w ocenianiu swojej wiedzy — to druga z wymie- 
+nionych zasad metody pozytywnej niepewności, Zakłada ona szybkie dezaktualizo- 
+wanie się wiedzy i zaleca nieprzecenianie znaczenia liczby i zakresu informacji. By- 
+cie dobrze poinformowanym niekoniecznie może pomóc w osiągnięciu celów. 
+Skupienie na gromadzeniu i analizowaniu coraz większej ilości informacji może od- 
+wrócić uwagę decydenta od istotnych zmian w sytuacji decyzyjnej. Techniką poma- 
+gającą podjąć decyzję w sytuacji niepewności jest „Okno rezultatów” (ryc. 9). Poma- 
+ga ono uniknąć błędów w podejmowaniu decyzji przez przeanalizowanie różnych 
+wariantów decyzyjnych i ich rezultatów dla decydenta. 
+Rezultaty Pozytywne 
+Negatywne 
+Dla 
+mnie 
+Dla 
+innych 
+Trudność pokonania oporów. 
+Usprawnienie kierowania zespołem. 
+Łatwiejsza ocena jakości opieki i oceny Większy nakład pracy związany z opra- 
+pracowniczej. 
+Podniesienie prestiżu zawodu. 
+Własna satysfakcja z rozwoju zawodo- 
+wego pracowników. 
+Podniesienie poziomu opieki, 
+Zmobilizowanie pracowników do podno- 
+szenia kwalifikacji. 
+Obniżenie kosztów opieki. 
+Racjonalizacja pracy. 
+Podniesienie prestiżu zawodu. 
+Większy obszar samodzielności decyzyj- 
+nej pielęgniarek. 
+cowaniem koncepcji przekonania ludzi 
+do proponowanej zmiany. 
+Wysiłek włożony w samokształcenie. 
+Konieczność Miększenia nadzoru 
+w początkowym okresie, do momentu 
+pełnego wdrożenia i utrzymania zmiany. 
+Zwiększenie obowiązków pracowników 
+i opór z tym związany. 
+Opór innych działów przed nowymi wy- 
+maganiami. 
+Zwiększone koszty w fazie początkowej, 
+związane z doskonaleniem, dokumen- 
+tacją, zaopatrzeniem oddziału. 
+Ryzyko okresowego zmniejszenia efe- 
+ktywności (dołek organizacyjny). 
+Ryc. 9. Okno rezultatów. Decyzja: wprowadzenie procesu pielęgnowania jako metody pracy 
+pielęgniarek w oddziale 
+Źródło: A. Ksykiewicz•Dorota, P, Rusecki (red.): Doskonalenie organizacji opieki pielęgniarskiej w le- 
+cznictWie stacjonarnym, Wyd. II, Oficyna Wyd- ABRYS, Kraków-Lublin 1996, s. 93 
+105 
+
+****** Result for Image/Page 14 ******
+Każda decyzja powoduje cztery rodzaje następstw: 
+• Pozytywne dla decydenta {zyski, lepsza praca, satysfakcja zawodowaL 
+• Negatywne dla decydenta Istraty, poczucie małej wartości, ograniczenie ko 
+kłów z innymi, np. rodziną}. 
+• Pozytywne dla innych (zyski, lepsza praca dla najbliższych lub podwładnych). 
+• Negatywnedla innych (straty, gorsza praca, znaczne obciążenie, niskie zarobą 
+Do rezultatów zalicza się zarówno wydarzenia łotrzymanie pracy}, jaki uczucia 
+dowolenie, poczucie samorealizacji}. Taka analiza jest przydatna w 
+wania decyzji o wprowadzeniu zmian, np. procesu pielęgnowania jako nowej 
+pracy pielęgniarek na oddziale szpitalnym. 
+Pozytywna niepewność idruga zasada} wymaga równowagi pomiędzy 
+a świadomością jej braku w zmieniających się warunkach. Konieczna jest 
+ność zarówno uczenia się, jak i zapominania rzeczy już nieistotnych. Umiejętność 
+bycia przezornym w ocenie posiadanej informacji ułatwia podejmowanie decyzji 
+Twórcze podejmowanie decyzji zaleca decydentowi, aby: 
+był świadomy, lecz przezorny w korzystaniu ze zgromadzonych informacji, 
+• uznał, że wiedza jest siłą, ale czasem jej brak pomaga w podjęciu decyzji, 
+• traktował pamięć jak przeciwnika, 
+• zachował równowagę pomiędzy korzystaniem z informacji i vobraźnir 
+Trzecią zasadą metody pozytywnej niepewności jest maksyma: bądź obiektywny, 
+lecz optymistyczny w ocenianiu własnych możliwości. W tej zasadzie zakłada Siq 
+że przekonania decydenta powodują postrzeganie otoczenia w określony przez niego 
+sposób. Na rodzaj podjętej decyzji wpływają wierzenia, przekonania i opinie preztflr 
+towane przez podejmującego decyzję. Nieracjonalny subiektywizm może jednakbyć 
+korzystny w procesie decydowania, gdyż pozwala na poznanie nowych, obiektymiŕ 
+niedostrzeganych możliwości. Metoda pozytywnej niepewności w odniesieniu do 
+trzeciej zasady zaleca decydentowi, aby: 
+• był obiektywny, ale optymistyczny, 
+• zauważał, że rzeczywistość jest w „oku” patrzącego orazw „ja” oceniającego 
+• traktował swoje przekonania i opinie jako przepowiednie, 
+• równoważył testowanie rzeczywistości zmyśleniemwypełnionym marzeniami- 
+Powyższe zalecenia wynikają z faktu, że ludzie nie postępują w sposób całkowicie 
+racjonalny i obiektywny, Rzutuje to na sposób decydowania dotyczący zarówno 
+własnych spraw, jak i organizacji, którą kierują. Należy więc łączyć krytycyzm 
+z wiarą w skuteczność działania w czasie podejmowania decyzji. Omawiana zasada 
+wskazuje na ważność własnych przekonań i opinii decydenta oraz ich znaczemt 
+w procesie decydowania. Analiza własnych opimi i wizji przyszłości może być przy 
+datnym narzędziem w kształtowaniu umiejętności podejmowania decyzji i 
+wania przyszłości. W praktyce decydowania należy nauczyć się równoważyć 
+nalizm z intuicją i obiektywizm z subiektywizmem w dokonywaniu 
+dotyczących przyszłości. 
+Ostatnia zasada metody pozytywnej niepewności głosi: bądź praktyczny, lec: 
+że intuicyjny w swoich działaniach. Zakłada się w niej, że każdy człowiek posad J 
+własne sposoby podejmowania decyzji. Wszystkie one mają charakter kombinacp 
+naloycl: 
+następujących cech: racjonalności, intuicyjności, tradycji, Większość racjo 
+sposobów decydowania odrzuca możliwość włączenia intuicji czy podświad0Ul 
+106 
+
+****** Result for Image/Page 15 ******
+4 • Proces d 
+do procesu podejmowania decyzji, natomiast metoda zaleca ich 
+W celu „korzystania w procesie decydowania wszystkich możliwości 
+uświadomić sobie, że w podejmowaniu decyzji metodami tradycyjnymi miała 
+udział mniej lub bardziej świadomie — intuicja, 
+dążyć do osiągnięcia równowagi pomiędzy korzystaniem z metod klasycznych 
+uczyć się rozumieć i radzić sobie z faktem ciągle zmieniającej się rzeczywistości. 
+podsumowując metodę pozytywnej niepewności, można stwierdzić, że nie zape- 
+wma ona jednoznacznych i stałych zaleceń co do dobrego sposobu decydowania, ale 
+oswaja decydenta ze zmiennym otoczeniem i przygotowuje go do podejmowania de- 
+cyzji w takich wanłnkach. Zachęca także do korzystania na równych zasadach 
+z własnej wiedzy, obiektywnie zgromadzonych informacji oraz intuicji. Odwołuje 
+się ona zarówno do doświadczenia, jak i podświadomości decydenta, Zachęca do 
+rozwoju umiejętności decydowania, bycia elastycznym i otwartym na nowe poglądy 
+i idee. 
+.4. Decentralizacja podejmowania decyzji 
+ierowniczych. Delegowanie uprawnień 
+decyzyjnych na pielęgniarskich stanowiskach 
+pracy 
+Umiejscowienie prawa do podejmowania decyzji w strukturze organizacji jest 
+jednym z elementów wpływających na sprawność funkcjonowania organizacji. 
+W praktyce decydowania zdarzają się sytuacje błędnego umiejscowienia prawa do 
+decydowania: 
+Decyzja podejmowana jest na szczeblu wyższym, niż powinna, np. pielęgniar- 
+ka naczelna decyduje o nagradzaniu pielęgniarek odcinkowych. 
+Decyzja podejmowana jest na szczeblu niższym, niż powinna, np. pielęgniarka 
+naczelna przekazuje pielęgniarce oddziałowej prawo do decydowania o syste• 
+mie doskonalenia zawodowego pielęgniarek w całym zakładzie opieki zdrowot- 
+nej, a decyzja nie jest podyktowana umiejętnościami i doświadczeniem od- 
+działowej we wspomnianym zakresie. 
+Decyzja podejmowana jest na właściwym szczeblu, ale na niewłaściwym sta- 
+nowisku, np. zastępca dyrektora zakładu opieki zdrowotnej ds. administracyj- 
+nych podejmuje decyzje dotyczące zatrudniania pracowników medycznych. 
+Z procesem decydowania związane są dwa zjawiska: centralizacja i decentralizacja. 
+Centralizowanie 'est procesem przekazywania prawa do ode•mowania decy- 
+łwyzszyc powinny y o- 
+dejmowane decyzje strategiczne, o arakterze ogólnym, mające istotne znaczenie 
+107 
